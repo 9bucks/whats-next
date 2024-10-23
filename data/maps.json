@@ -1,0 +1,913 @@
+{
+  "name": "X",
+  "children": [
+    {
+      "name": "Intermediate",
+      "children": [
+        {
+          "name": "Science",
+          "children": [
+            {
+              "name": "M P C",
+              "children": []
+            },
+            {
+              "name": "Bi P C",
+              "children": [
+                {
+                  "name": "UG",
+                  "children": [
+                    {
+                      "name": "M B B S",
+                      "children": [
+                        {
+                          "name": "P G",
+                          "children": [
+                            {
+                              "name": "MD (Doctor of Medicine)",
+                              "children": [
+                                {
+                                  "name": "MD - Pathology",
+                                  "children": [
+                                    {
+                                      "name": "DM - OncoPathology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Neuropathology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - HaematologyPathology/Hematopathology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Histopathology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Pharmacology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Dermatology ,Venereology and Leprosy",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Paediatrics",
+                                  "children": [
+                                    {
+                                      "name": "DM - Neonatology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricHepatology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricNeurology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PediatricsGastroenterology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricNephrology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PediatricsCardiology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricOncology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricCriticalCare",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricEndocrinology",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - Diabetology",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - Paediatric Clinical and Emergency Care",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - PaediatricHaematology Oncology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PaediatricPulmonology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Ophthalmology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - GeneralMedicine",
+                                  "children": [
+                                    {
+                                      "name": "DM - Cardiology",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - Cardiac and NeuroAnesthesiolgy",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - CriticalCare",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Endocrinology",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - Diabetology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Neurology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Nephrology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - MedicalGastroenterology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - MedicalOncology",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - MedicalOncology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Rheumatology/ClinicalImmunology and Rheumatology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - InfectiousDisease",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - TropicalParasitology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - ClinicalHaematology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Geriatric MentalHealth",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - GeriaticMental Health Care",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - MentalHealth Education",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - ClinicalPharmacology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Anatomy",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Social and Preventive Medicine/ CommunityMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Microbiology",
+                                  "children": [
+                                    {
+                                      "name": "DM - Virology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - InfectiousDisease",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - TropicalParasitology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Clinical InfectiousDiseases",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Radiotherapy/Radiation Oncology",
+                                  "children": [
+                                    {
+                                      "name": "DM - Oncology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - RadiationOncology (Urogenital and GYN)",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - PalliativeOncology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - RadioDiagnosis/Radiology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - ForensicMedicine/ForensicMedicine and Toxicology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Physiology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - CCM",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Psychiatry",
+                                  "children": [
+                                    {
+                                      "name": "DM - AddictionPsychiatry",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - MentalHealth/PsychiatricRehabilitation",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - MentalHealth Education",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Geriatric MentalHealth",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - GeriaticMental Health Care",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - MentalHealth Education",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Child and AdolescentPsychiatry",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - MentalHealth Education",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - MentalHealth/PsychiatricRehabilitation",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Bio-Chemistry",
+                                  "children": [
+                                    {
+                                      "name": "DM - MedicalGenetics",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - ClinicalPharmacology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Anaesthesiology",
+                                  "children": [
+                                    {
+                                      "name": "DM - CardiacAnaesthesia and Critical Care",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - NeuroAnaesthesia",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - Cardiac and NeuroAnesthesiolgy",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - CriticalCare",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Cardiac-Anaesthesia",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Critical CareMedicine",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - CriticalCare",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - Paediatric Clinical and Emergency Care",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "DM - Onco -Anesthesiology and PalliativeMedicine",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - OrganTransplantAnaesthesia and Critical Care",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Paediatric and NeonatalAnaesthesia",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Pain Medicine",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Neuro -Anesthesiology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Trauma Anesthesia and Acute Care",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Intensive Care",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - SportsMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Tuberculosis and RespiratoryDiseases /Pulmonary Medicine",
+                                  "children": [
+                                    {
+                                      "name": "DM - PulmonaryMedicine",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Pulmonary, Critical Care and SleepMedicine",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Critical CareMedicine",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - ImmunoHaematology and Blood Transfusion",
+                                  "children": [
+                                    {
+                                      "name": "DM - ClinicalHaematology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Immunology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - ClinicalImmunology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - Geriatrics",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - RadioDiagnosis",
+                                  "children": [
+                                    {
+                                      "name": "DM - Neuroimaging and InterventionalRadiology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - CardiovascularRadiology and EndovasularIntervention",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - InterventionalRadiology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - NeuroRadiology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - CardiovascularImaging and VascularInterventionalRadiology",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Cardiac Radiology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - RespiratoryMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - RadiationOncology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - EmergencyMedicine",
+                                  "children": [
+                                    {
+                                      "name": "DM - CriticalCareMedicine",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "DM - Paediatric Clinical and EmergencyCare",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - ForensicMedicine",
+                                  "children": [
+                                    {
+                                      "name": "DM - Medical and ForensicToxicology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MD - CommunityMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - ImmunologyHematology and Blood Transfusion",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - PalliativeMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - HospitalAdministration",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - AviationMedicine/AerospaceMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - TransfusionMedicine and BloodBank",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Biochemistry",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Anaesthesia",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - MarineMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - FamilyMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Social and Preventive Medicine /Community Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Sports Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - PhysicalMedicine and Rehabilitation",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Radio Diagnosis",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Tuberculosis and Respiratory Diseases /Pulmonary Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - ImmunoHaematology and BloodTransfusion",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Family Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - TropicalMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Lab Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - TransfusionMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Venereology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Tuberculosis and Respiratory Diseases/ PulmonaryMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Community and Family Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Obstetrics and Gynaecology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - NuclearMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Anaesthesiology and Critical Care Med.",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Pathology and Microbiology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Bio-Physics",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - PulmonaryMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - General Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Forensic Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Tropical Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Social and PreventiveMedicine / CommunityMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - ForensicMedicine/Forensic Medicine and Toxicology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Physical Medicine and Rehabilitation",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Respiratory Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Community Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Radiation Oncology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Emergency Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Immuno Haematology and Blood Transfusion",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Dermatology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Bacteriology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Nuclear Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Transfusion Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Pathology and LabMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Community and FamilyMedicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Radiology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Community HealthAdministration",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Palliative Medicine",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MD - Radio diagnosis and Interventional Radiology",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "MS (Master of Surgery)",
+                              "children": [
+                                {
+                                  "name": "MS - Anatomy",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MS - GeneralSurgery",
+                                  "children": [
+                                    {
+                                      "name": "M.Ch - Urology/Genito-UrinarySurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - PlasticSurgery/Plastic and ReconstructiveSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - SurgicalOncology",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - MedicalOncology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "M.Ch - VascularSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - CardioThoracic and VascularSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - SurgicalGastroenterology/G.I.Surgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - HepatoPancreato BiliarySurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - EndocrineSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - MinimalAccess Surgery and GeneralSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - TraumaSurgery and Criticalcare",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - CriticalCare",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "Fellowship - Paediatric Clinical and Emergency Care",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "M.Ch - Burns and PlasticSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - Breast, Endocrine and GeneralSurgery",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MS - ENT",
+                                  "children": [
+                                    {
+                                      "name": "M.Ch - Head and NeckSurgery",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - SkullBase SurgeryOtorhinolaryngology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "M.Ch - Head - NeckSurgery and Oncology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MS - Orthopaedics",
+                                  "children": [
+                                    {
+                                      "name": "M.Ch - PaediatricOrthopaedics",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - HandSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - SpineSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - JointReplacement and Reconstruction",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - TraumaSurgery and Criticalcare",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MS - Obstetrics and Gynaecology",
+                                  "children": [
+                                    {
+                                      "name": "M.Ch - GynaecologicalOncology",
+                                      "children": [
+                                        {
+                                          "name": "Fellowship - MedicalOncology",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "M.Ch - ReproductiveMedicine and surgery",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MS - Otorhinolaryngology",
+                                  "children": [
+                                    {
+                                      "name": "M.Ch - Head and NeckSurgery",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "M.Ch - Head - NeckSurgery and Oncology",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "MS - Ophthalmology",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MS - General Surgery",
+                                  "children": []
+                                },
+                                {
+                                  "name": "MS - Traumatologyand Surgery",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "DNB (Diplomate of National Board)",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "B D S",
+                      "children": []
+                    },
+                    {
+                      "name": "B P T",
+                      "children": []
+                    },
+                    {
+                      "name": "B S C Nursing",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Commerce",
+          "children": [
+            {
+              "name": "C E C",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Arts",
+          "children": [
+            {
+              "name": "M E C",
+              "children": []
+            },
+            {
+              "name": "H E C",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Polytechnic",
+      "children": []
+    },
+    {
+      "name": "Diploma",
+      "children": []
+    }
+  ]
+}
